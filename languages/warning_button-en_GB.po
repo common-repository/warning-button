@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wb_backend.inc.php:13
+#: wb_backend.php:13
+#@ warning_button
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: wb_backend.inc.php:27
+#: wb_backend.php:27
+#@ warning_button
+msgid "settings saved."
+msgstr "Settings saved."
+
+#: wb_backend.inc.php:40
+#: wb_backend.php:40
+#@ warning_button
+msgid "Warning Button Administration"
+msgstr "Warning Button Administration"
+
+#: wb_backend.inc.php:45
+#: wb_backend.php:45
+#@ warning_button
+msgid "Email subject"
+msgstr "Email subject"
+
+#: wb_backend.inc.php:49
+#: wb_backend.php:49
+#@ warning_button
+msgid "Administrator email"
+msgstr "Administrator email"
+
+#: wb_backend.inc.php:53
+#: wb_backend.php:53
+#@ warning_button
+msgid "Message sent"
+msgstr "Message to send"
+
+#: wb_backend.inc.php:60
+#: wb_backend.php:60
+#@ warning_button
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: wb_frontend.inc.php:7
+#@ warning_button
+msgid "Report inappropriate content"
+msgstr "Report inappropriate content"
+
+#: wb_frontend.inc.php:33
+#@ warning_button
+msgid "Message success"
+msgstr "Message successfully sent to the administrator."
+
+#: wb_frontend.inc.php:37
+#@ warning_button
+msgid "Message error"
+msgstr "Error : your message can't be send to the administrator, retry later."
+
